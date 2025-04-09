@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics 
 - 🌱 I’m currently learning statistics 
 - 💞️ I’m looking to collaborate on data analytics project 
-- 📫 How to reach me pawarjayvishal1910@gmail.com
+- 📫 How to reach me pawarjayvishal@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
