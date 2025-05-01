@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pawarjay19
-- 👀 I’m interested in data analytics 
+- 👀 I’m interested in data analytics and AI
 - 🌱 I’m currently learning statistics 
 - 💞️ I’m looking to collaborate on data analytics project 
 - 📫 How to reach me pawarjayvishal@gmail.com
